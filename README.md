@@ -35,12 +35,6 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zFiora&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=zFiora&theme=radical&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-</div>
+# 📊GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=zFiora&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zFiora&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
